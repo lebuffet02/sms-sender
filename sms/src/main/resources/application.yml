@@ -1,0 +1,8 @@
+server:
+  port: 8087
+
+twilio:
+  account_sid: AC7b214743c470cd900756d8e08973dec4
+  auth_token: 223fb30ab606dce4f92754ad9b9c4e7c
+  trial_number: + COLOCAR O NUMERO VINCULADO AQUI
+
